@@ -1,0 +1,24 @@
+.BuildControls {
+    width: 100%;
+    background-color: burlywood;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    box-shadow: 0 2px 1px #ccc;
+    padding: 10px 0;
+}
+.Price {
+    font-size: 2em;
+    background-color: blanchedalmond;
+    font-weight: bold;
+    padding: 0.2em;
+    box-shadow: 1px 1px 5px black;
+}
+.OrderButton {
+    padding: 0.5em 1em;
+    outline: none;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-transform: uppercase;
+    box-shadow: 0px 0px 3px;
+}

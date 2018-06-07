@@ -1,0 +1,13 @@
+.Button {
+    font-size: 1em;
+    padding: 0.5em 1em;
+    margin: 0.5em;
+}
+
+.Success {
+    background-color: greenyellow;
+}
+
+.Danger {
+    background-color: red;
+}

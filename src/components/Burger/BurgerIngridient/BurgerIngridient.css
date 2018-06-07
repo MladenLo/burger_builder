@@ -1,0 +1,47 @@
+.BreadTop {
+    background-color: #CE9000;
+    width: 90%;
+    margin: 0 auto;
+    height: 4em;
+    border-radius: 40% 40% 5% 5%;
+    margin-bottom: 0.1em;
+}
+.Cheese {
+    background-color: #F9E000;
+    width: 95%;
+    margin: 0 auto;
+    height: 2em;
+    border-radius: 5%;
+    margin-bottom: 0.1em;
+}
+.Meat {
+    background-color: #542d2d;
+    width: 90%;
+    margin: 0 auto;
+    height: 3em;
+    border-radius: 10%;
+    margin-bottom: 0.1em;
+}
+.Salat {
+    background-color: #A1C935;
+    width: 94%;
+    margin: 0 auto;
+    height: 1em;
+    border-radius: 10%;
+    margin-bottom: 0.1em;
+}
+.Cabbage {
+    background-color: #660033;
+    width: 95%;
+    margin: 0 auto;
+    height: 1em;
+    border-radius: 10%;
+    margin-bottom: 0.1em;
+}
+.BreadBottom {
+    background-color: #CE9000;
+    width: 90%;
+    margin: 0 auto;
+    height: 4em;
+    border-radius: 2% 2% 10% 10%;
+}
